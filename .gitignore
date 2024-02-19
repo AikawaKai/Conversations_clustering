@@ -1,0 +1,6 @@
+POC_conversations/.idea/*
+POC_conversations/.ipynb_checkpoints/*
+POC_conversations/*.csv
+POC_conversations/venv/*
+POC_conversations/sliceguard_tmp/*
+
