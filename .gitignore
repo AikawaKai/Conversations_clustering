@@ -4,4 +4,5 @@ POC_conversations/*.csv
 POC_conversations/venv/*
 POC_conversations/sliceguard_tmp/*
 .idea/
+POC_conversations/*.pkl
 
